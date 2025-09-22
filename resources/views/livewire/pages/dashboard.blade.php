@@ -6,9 +6,9 @@
                 <h1 class="mt-2 text-3xl font-semibold sm:text-4xl">Panel de control</h1>
                 <p class="mt-3 max-w-3xl text-base text-slate-300">Visualiza el pulso operativo de tus reuniones, notas colaborativas y métricas de impacto en un mismo lugar.</p>
             </div>
-            <div class="flex items-center gap-3">
-                <span class="rounded-full bg-primary-500/20 px-4 py-2 text-sm font-semibold text-primary-100">Semana 32</span>
-                <button class="inline-flex items-center gap-2 rounded-full bg-primary-500 px-5 py-3 text-sm font-semibold uppercase tracking-widest text-slate-950 transition hover:bg-primary-400">
+            <div class="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-end">
+                <span class="w-full rounded-full bg-primary-500/20 px-4 py-2 text-center text-sm font-semibold text-primary-100 sm:w-auto">Semana 32</span>
+                <button class="inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary-500 px-5 py-3 text-sm font-semibold uppercase tracking-widest text-slate-950 transition hover:bg-primary-400 sm:w-auto">
                     Generar reporte
                 </button>
             </div>
